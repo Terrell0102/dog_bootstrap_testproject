@@ -178,12 +178,4 @@ p {
         position: static;
         transform: rotate(0);
     }
-    
-    .container-fluid {
-        padding: 0;
-    }
-    
-    .iphone {
-        width: 70%;
-    }
 }
